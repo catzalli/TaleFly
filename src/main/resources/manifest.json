@@ -1,0 +1,30 @@
+{
+  "Group": "AselStudios",
+  "Name": "TaleFly",
+  "Version": "0.0.6",
+  "Description": "Advanced flight management system with economy and time limits.",
+  "Authors": [
+    {
+      "Name": "AselStudios"
+    }
+  ],
+  "ServerVersion": "*",
+  "Dependencies": {
+    "Hytale:EntityModule": "*",
+    "Hytale:InteractionModule": "*"
+  },
+  "OptionalDependencies": {
+    "com.dunystudios.hytale.plugins:EcoAPI": "*",
+    "TheNewEconomy:VaultUnlocked": "*",
+    "AselStudios:TalePlaceholders": "*",
+    "ReliablePlugins:HyCurrency": "*",
+    "ArefyEconomy:ArefyEconomy": "*",
+    "Ecotale:Ecotale": "*",
+    "Buuz135:SimpleClaims": "*",
+    "wiflow:WiFlowsClaims": "*",
+    "Kaws:Hyfaction": "*"
+  },
+  "DisabledByDefault": false,
+  "Main": "org.aselstudios.talefly.Main",
+  "IncludesAssetPack": false
+}
