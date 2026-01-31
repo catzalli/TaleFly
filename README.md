@@ -29,6 +29,7 @@ Add the following to your `build.gradle` dependencies:
 dependencies {
     compileOnly(fileTree(dir: 'libs', include: ['*.jar']))
 }
+```
 
 ## Getting the API instance
 
